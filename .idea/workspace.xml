@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cda02076-75e1-4164-aa87-472a20277d4c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qfgremrNPg2rxkzlifU5JVUBDB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in Advanced_Vehicle_Rental_Management_System.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CarTest.testCarRental.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CarTest.testValidNumberOfDoors.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CarTest.testcarRental2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MotorcycleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MotorcycleTest.testMotorcycleRental.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MotorcycleTest.testMotorcycleRentalWithDiscount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MotorcycleTest.testToCheckValidNumberOfWheels.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MotorcycleTest.testTruckRental.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.removeCarFromGarageTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.searchForVehicleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.testAddAndRemoveVehicle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.testAvailableForRental.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.testSearchForAvailableVehicles.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.testToCheckGenerateReport.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.testToGenerateReport.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalAgencyTest.vehiclesInGarageTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalTransactionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RentalTransactionTest.testRentalTransaction.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TruckTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TruckTest.testToCheckValidTrunkCapacity.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/CALEB/IdeaProjects/Advanced_Vehicle_Rental_Management_System/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Advanced_Vehicle_Rental_Management_System">
+    <configuration name="All in Advanced_Vehicle_Rental_Management_System" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advanced_Vehicle_Rental_Management_System" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advanced_Vehicle_Rental_Management_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalAgencyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advanced_Vehicle_Rental_Management_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RentalAgencyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalTransactionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advanced_Vehicle_Rental_Management_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RentalTransactionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalTransactionTest.testRentalTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advanced_Vehicle_Rental_Management_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RentalTransactionTest" />
+      <option name="METHOD_NAME" value="testRentalTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Advanced_Vehicle_Rental_Management_System" />
+        <item itemvalue="JUnit.RentalTransactionTest" />
+        <item itemvalue="JUnit.RentalTransactionTest.testRentalTransaction" />
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.RentalAgencyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda02076-75e1-4164-aa87-472a20277d4c" name="Changes" comment="" />
+      <created>1735059243920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735059243920</updated>
+      <workItem from="1735059244998" duration="116000" />
+      <workItem from="1735224314603" duration="7000" />
+      <workItem from="1735224341624" duration="2410000" />
+      <workItem from="1735226838731" duration="8588000" />
+      <workItem from="1735247215253" duration="5855000" />
+      <workItem from="1735293836524" duration="13866000" />
+      <workItem from="1735386691833" duration="5288000" />
+      <workItem from="1735582280536" duration="109000" />
+      <workItem from="1735586426477" duration="145000" />
+      <workItem from="1735587912827" duration="8606000" />
+      <workItem from="1735609163832" duration="11075000" />
+      <workItem from="1735620581644" duration="336000" />
+      <workItem from="1735621314538" duration="854000" />
+      <workItem from="1735622222640" duration="391000" />
+      <workItem from="1735622775630" duration="41000" />
+      <workItem from="1735926759652" duration="191000" />
+      <workItem from="1735927089585" duration="2086000" />
+      <workItem from="1736420285623" duration="51000" />
+      <workItem from="1737119625343" duration="1163000" />
+      <workItem from="1737416121032" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/CarTest.java</url>
+          <line>48</line>
+          <properties class="org.example.CarTest" method="testValidNumberOfDoors">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
