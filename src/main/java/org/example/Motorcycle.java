@@ -75,7 +75,7 @@ public class Motorcycle extends Vehicle implements Rentable{
 
 
     public void getInformation(){
-        System.out.println("+---+---+---+---+---+---+");
+        System.out.println("+---+---+---+---+---+---+-");
         System.out.println("vehicle id: " + getVehicleId() +"\n"+
                 "vehicle model: " + getModel() +"\n"+
                 "number of wheels: " + getNumberOfWheels() +"\n"+
