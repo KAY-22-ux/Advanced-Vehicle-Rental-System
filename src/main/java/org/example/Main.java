@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Main {
     public ArrayList<Integer> numbers;
     public static void main(String[] args) {
-        String underscore = "---*---*---*---*---*---*---*---*---*---*---*---*---*---*.";
+        String underscore = "---*---*---*---*---*---*---*---*---*---*---*---*---*---*";
 
         //Creating  several instances of the cars
         Car car1 = new Car ("CAR001" , "mercedes benz,GLE" , 4, 200.00);
